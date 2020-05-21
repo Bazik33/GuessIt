@@ -38,3 +38,5 @@ jobs:
     - name: iOS
       run: |
           ls -l
+          cd Zgdanij.iOS
+          ls -l
