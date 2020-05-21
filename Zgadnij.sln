@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zgadnij.Android", "Zgadnij.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zgadnij", "Zgadnij\Zgadnij.csproj", "{71971AE7-2FEC-4250-B818-7D21326320A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zgadnij.iOS", "Zgdanij.iOS\Zgadnij.iOS.csproj", "{1AF05075-D99D-447B-9E88-68528CBA48A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zgadnij.iOS", "Zgadnij.iOS\Zgadnij.iOS.csproj", "{1AF05075-D99D-447B-9E88-68528CBA48A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
