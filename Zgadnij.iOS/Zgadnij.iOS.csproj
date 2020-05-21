@@ -11,7 +11,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Zgadnij.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>Zgadnij</AssemblyName>
+    <AssemblyName>Zgadnij.iOS</AssemblyName>
     <MtouchEnableSGenConc>true</MtouchEnableSGenConc>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <ProvisioningType>manual</ProvisioningType>
