@@ -38,5 +38,5 @@ jobs:
     - name: iOS
       run: |
         nuget restore
-        ls -l Zgadnij.iOS/Zgadnij.iOS.csproj
+        ls -l
         msbuild Zgadnij.iOS/Zgadnij.iOS.csproj /verbosity:normal /t:Rebuild /p:Platform=iPhoneSimulator /p:Configuration=Debug
