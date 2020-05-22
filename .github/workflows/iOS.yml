@@ -1,0 +1,13 @@
+name: iOS
+
+on: [push, pull_request]
+
+jobs: 
+  iOS:
+    runs-on: macos-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: iOS
+      run: |
+        nuget restore
+        msbuild Zgadnij.iOS/Zgadnij.iOS.csproj /verbosity:normal /t:Rebuild /p:Platform=iPhoneSimulator /p:Configuration=Debug
