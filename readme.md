@@ -6,10 +6,10 @@ A simple game written in Xamarin about guessing a number. Only in polish at this
 
 # How to run it
 
-(1) Install Visual Studio or Visual Studio for Mac with Xamarin Support (and Android/iOS SDKs)
-(2) Load Zgadnij.sln
-(3) Right click on the solution and choose "Restore NuGet Packages"
-(4) Select your target (Debug|Any CPU|Zgadnij.Android -> for Android phones, Debug|iPhone|Zgadnij.iOS -> for real iPhones, Debug|iPhoneSimulator|Zgadnij.iOS -> for Xcode iPhone Simulator), build and start debugging using the IDE! 
+(1) Install Visual Studio or Visual Studio for Mac with Xamarin Support (and Android/iOS SDKs) <br/>
+(2) Load Zgadnij.sln <br/>
+(3) Right click on the solution and choose "Restore NuGet Packages" <br/>
+(4) Select your target (Debug|Any CPU|Zgadnij.Android -> for Android phones, Debug|iPhone|Zgadnij.iOS -> for real iPhones, Debug|iPhoneSimulator|Zgadnij.iOS -> for Xcode iPhone Simulator), build and start debugging using the IDE!  <br/>
 
 # Screenshots
 
